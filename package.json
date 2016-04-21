@@ -1,0 +1,24 @@
+{
+  "name": "bmv",
+  "version": "1.0.2",
+  "description": "Move a batch of files/directories to different destinations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Wilson",
+  "keywords": [
+    "mv",
+    "move",
+    "rename",
+    "device",
+    "recursive",
+    "folder",
+    "batch"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.3",
+    "mv": "^2.1.1"
+  }
+}
