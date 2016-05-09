@@ -1,6 +1,6 @@
 {
   "name": "bmv",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Move a batch of files/directories to different destinations",
   "main": "index.js",
   "scripts": {
