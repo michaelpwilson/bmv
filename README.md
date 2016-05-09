@@ -5,7 +5,7 @@ Moves a batch of files/directories to different destinations.
 ## Example
 
 ```javascript
-const bmv = require("./index.js");
+const bmv = require("bmv");
 
 bmv.move([
     // move to a different directory
